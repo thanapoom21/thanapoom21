@@ -92,6 +92,9 @@
 
 <img aligh="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=thanapoom21&show_icons=true&hide_border=true" />
 
+### Thanks to [codeSTACKr] for this simple template.
+
+[codeSTACKr]: https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw
 [website]: https://tpmusic.dev
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
