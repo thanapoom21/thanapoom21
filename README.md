@@ -4,13 +4,13 @@
 
 <br />
 
-## I'm a designer & an developer
+## I'm a web designer & an OCD(Obsessive-centering-a-div) developer
 
-- 🌱 I’m currently learning front end & back end development.
+- 🌱 I’m currently learning front end development, back end development, and CI/CD to container orchestration. 
 - ⚽ 2022 Goals:
   - Get a job in the tech industry ASAP.
   - Contribute more to Open Source projects.
-  - Help others in need of transitioning into tech field. Coz it's difficult.
+  - Help others in need of transitioning into tech field. Coz it's extremely difficult.
 - 🤔 Fun fact: I love to watch and play soccer. My favorite players are Zidane, Messi, Bergkamp, and a lot more.
 - 🔭 Interested in: astronomy, automobile, cooking, and many more.
 
