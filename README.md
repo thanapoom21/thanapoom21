@@ -97,7 +97,7 @@
 [codeSTACKr]: https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw
 [website]: https://tpmusic.dev
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/music_ptjrk
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
