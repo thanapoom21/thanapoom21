@@ -4,7 +4,7 @@
 
 <br />
 
-## I'm a web designer & an OCD(Obsessive-centering-a-div) developer
+## I'm a web designer & a developer
 
 - 🌱 I’m currently learning front end development, back end development, and CI/CD to container orchestration. 
 - ⚽ 2022 Goals:
