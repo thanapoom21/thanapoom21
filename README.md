@@ -16,7 +16,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="tpmusic | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="tpmusic | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="tpmusic | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="tpmusic | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tpmusic | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
